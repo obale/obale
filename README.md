@@ -1,6 +1,6 @@
 ### [Short Bio][website]
 
-Alex Oberhauser is a passionate tech-entrepreneur, innovator and C-level
+Alex Oberhauser is a passionate tech-entrepreneur, innovator and ex C-level
 executive. During his entrepreneurial journey he acquired a multitude
 of skills and expertise, far beyond his original core field of computer
 science and software engineering.

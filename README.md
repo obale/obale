@@ -16,6 +16,7 @@ company and different research projects in the space. In the past
 Alex Oberhauser has worked for 4 years as researcher in the field
 of Semantic Web.
 
+
 ### Github Stats
 
 [![obale's github stats](https://github-readme-stats.vercel.app/api?username=obale)](https://github.com/obale)

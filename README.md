@@ -25,6 +25,30 @@ not as an afterthought.
 </div>
 
 
+### :hammer_and_wrench: Languages and Tools
+
+<p><br/></p>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" **alt="Gitlab" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" **alt="Go" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="Argocd" **alt="Argocd" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" **alt="Ansible" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-plain-wordmark.svg" title="Terraform" **alt="Terraform" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" **alt="Kubernetes" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain-wordmark.svg" title="Google Cloud" **alt="Google Cloud" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="Amazon AWS" **alt="Amazon AWS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain-wordmark.svg" title="Debian" **alt="Debian" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/gentoo-plain-wordmark.svg" title="Gentoo" **alt="Gentoo" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/coffeescript/coffeescript-original-wordmark.svg" title="Coffeescript" **alt="Coffeescript" width="40" height="40"/>
+</div>
+<p><br/></p>
+
+Many, many more... Including, but not limited to, different types of SQL databases, virtualization software (such as Proxmox), firewall software (pfsense, VyOS), a lot of programming languages.
+
 ### Github Stats
 
 [![obale's github stats](https://github-readme-stats.vercel.app/api?username=obale)](https://github.com/obale)

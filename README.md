@@ -12,6 +12,7 @@ are highly regulated and hard to penetrate.
 He is currently working on user controlled identities and the empowerment of
 the end-users, with privacy and security as part of the value proposition,
 not as an afterthought.
+<p><br/></p>
 
 ### Find Me On
 
@@ -23,11 +24,10 @@ not as an afterthought.
     <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
 </div>
-
+<p><br/></p>
 
 ### :hammer_and_wrench: Languages and Tools
 
-<p><br/></p>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" **alt="Gitlab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -48,6 +48,7 @@ not as an afterthought.
 <p><br/></p>
 
 Many, many more... Including, but not limited to, different types of SQL databases, virtualization software (such as Proxmox), firewall software (pfsense, VyOS), a lot of programming languages.
+<p><br/></p>
 
 ### Github Stats
 

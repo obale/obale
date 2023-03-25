@@ -52,6 +52,7 @@ Many, many more... Including, but not limited to, different types of SQL databas
 
 ### Github Stats
 
-[![obale's github stats](https://github-readme-stats.vercel.app/api?username=obale)](https://github.com/obale)
+[![obale's github stats](https://github-readme-stats.vercel.app/api?username=obale&theme=vision-friendly-dark)](https://github.com/obale)
+
 
 [website]: https://alex-oberhauser.com

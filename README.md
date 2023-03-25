@@ -50,8 +50,6 @@ not as an afterthought.
 Many, many more... Including, but not limited to, different types of SQL databases, virtualization software (such as Proxmox), firewall software (pfsense, VyOS), a lot of programming languages.
 <p><br/></p>
 
-### Github Stats
-
 [![obale's github stats](https://github-readme-stats.vercel.app/api?username=obale&theme=vision-friendly-dark)](https://github.com/obale)
 
 
